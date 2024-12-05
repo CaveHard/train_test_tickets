@@ -1,0 +1,3 @@
+C:/Users/Krzysztof Koteluk/CLionProjects/dupa/cmake-build-debug/CMakeFiles/dupa.dir
+C:/Users/Krzysztof Koteluk/CLionProjects/dupa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Krzysztof Koteluk/CLionProjects/dupa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
